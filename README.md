@@ -3,9 +3,9 @@
 My name is Anders, I have a Masters degree in [Computer Science and Engineering](https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering) from [DTU](https://www.dtu.dk/) (Technical university of Denmark)
 
 ### Interests.
-- Cybersecurity: mainly interested in red team/blue team, but sometimes dabble in analysis.
-- Cloud: still new to this, but DevOps interests me, as well as DevSecOps.
-- Coding: I enjoy coding as both a hobby and a professional pursuit, with a focus on Python and Rust. I’m particularly interested in building tools and libraries that solve real-world problems.
+- **Cybersecurity**: mainly interested in red team/blue team, but sometimes dabble in analysis.
+- **Cloud**: still new to this, but DevOps interests me, as well as DevSecOps.
+- **Coding**: I enjoy coding as both a hobby and a professional pursuit, with a focus on Python and Rust. I’m particularly interested in building tools and libraries that solve real-world problems.
 
 ### Skills.
 - **Languages**: Python, Rust, Bash, .NET (C#, F#)
@@ -14,8 +14,8 @@ My name is Anders, I have a Masters degree in [Computer Science and Engineering]
 - **Tools**: Git, Docker, Linux/Windows/macOS
 
 ### My socials.
-- [LinkedIn](https://linkedin.com/in/afpe)
-- [Instagram](https://instagram.com/artigeanders)
+- **[LinkedIn]**(https://linkedin.com/in/afpe)
+- **[Instagram]**(https://instagram.com/artigeanders)
 
 ### Projects I am currently working on.
 - **[flashr-tui](https://github.com/fisterloegsovs/flashr-tui)**: A CLI tool for flashing live images to a USB drive, sort of like BalenaEtcher or Rufus, but all in the command line.
