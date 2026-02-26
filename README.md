@@ -14,8 +14,8 @@ My name is Anders, I have a Masters degree in [Computer Science and Engineering]
 - **Tools**: Git, Docker, Linux/Windows/macOS
 
 ### My socials.
-- [LinkedIn](https://linkedin.com/in/afpe)
-- [Instagram](https://instagram.com/artigeanders)
+- Connect with me on [LinkedIn](https://linkedin.com/in/afpe)
+- If you want to see what i get up to (i post very rarely) [Instagram](https://instagram.com/artigeanders)
 
 ### Projects I am currently working on.
 - **[flashr-tui](https://github.com/fisterloegsovs/flashr-tui)**: A CLI tool for flashing live images to a USB drive, sort of like BalenaEtcher or Rufus, but all in the command line.
