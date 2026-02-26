@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**fisterloegsovs/fisterloegsovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Anders, i have a Masters degree in [Computer Science and Engineering](https://www.dtu.dk/english/education/graduate/msc-programmes/computer-science-and-engineering) from [DTU](https://www.dtu.dk/) (Technical university of Denmark)
 
-Here are some ideas to get you started:
+### My socials.
+- [LinkedIn](https://linkedin.com/in/afpe)
+- [Instagram](https://isntagram.com/artigeanders)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects i am currently working on.
+- **flashr-tui**: A CLI tool for flashing live images to a USB drive, sort of like BalenaEtcher or Rufus, but all in the command line.
+    * Written in Rust, using Ratatui for the TUI.
+- **encryptr**: Is a Rust encryption library with a CLI and a REST server.
+- **Learn to Cloud**: A course made by [madebygps](https://github.com/madebygps), that takes you from zero to hero in Cloud Engineering.
+- I have a bit of an ADHD brain so i am always starting new projects, but these are some projects i have committed more time to.
+
