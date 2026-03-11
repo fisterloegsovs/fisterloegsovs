@@ -8,14 +8,13 @@ My name is Anders, I have a Masters degree in [Computer Science and Engineering]
 - **Coding**: I enjoy coding as both a hobby and a professional pursuit, with a focus on Python and Rust. I’m particularly interested in building tools and libraries that solve real-world problems.
 
 ### Skills.
-- **Languages**: Python, Rust, Bash, .NET (C#, F#)
-- **Cloud/DevOps**: Azure, CI/CD, Kubernetes (As of now mostly theoretical knowledge, soon to be practical!)
+- **Languages**: Python, Rust, Bash, .NET (C#, F#), JavaScript.
+- **Cloud/DevOps**: Azure, CI/CD, Kubernetes, Terraform.
 - **Cybersecurity**: Red team/blue team, penetration testing, security analysis, bunch of theoretical knowledge, especially in network security.
-- **Tools**: Git, Docker, Linux/Windows/macOS
+- **Tools**: Git, Docker, Linux/Windows/macOS.
 
-### My socials.
+### LinkedIn.
 - Connect with me on [LinkedIn](https://linkedin.com/in/afpe)
-- If you want to see what i get up to (i post very rarely) [Instagram](https://instagram.com/artigeanders)
 
 ### Projects I am currently working on.
 - **[flashr-tui](https://github.com/fisterloegsovs/flashr-tui)**: A CLI tool for flashing live images to a USB drive, sort of like BalenaEtcher or Rufus, but all in the command line.
